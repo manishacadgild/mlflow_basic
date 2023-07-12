@@ -1,0 +1,6 @@
+
+from_root
+scikit-learn
+pandas
+numpy
+mlflow
